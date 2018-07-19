@@ -1,6 +1,8 @@
 
 # my
-ref/
+ref2/
+*.rar
+.idea/
 
 # jupyter
 .ipynb_checkpoints/
@@ -8,7 +10,6 @@ ref/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
 
 # C extensions
 *.so
