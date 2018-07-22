@@ -1,0 +1,7 @@
+使用keras版本的yoloV3训练并在VOC数据集上测试
+https://pjreddie.com/media/files/yolov3.weights
+
+
+参考：
+PASCAL VOC数据集分析
+https://blog.csdn.net/zhangjunbob/article/details/52769381
