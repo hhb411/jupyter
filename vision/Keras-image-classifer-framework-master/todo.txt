@@ -1,0 +1,13 @@
+
+1、找自然景色图试验
+
+2、用invoice-code（自动分割train和test集）
+
+3、把predict和train整合到一起
+
+4、比较invoice和traffic-sign的predict是否相同？
+
+文件夹编号不连续时，to_categorical报错（to_categorical是做独热编码）
+
+
+日志包

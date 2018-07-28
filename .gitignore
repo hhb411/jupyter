@@ -1,4 +1,3 @@
-
 # my
 ref2/
 *.rar
@@ -6,6 +5,10 @@ ref2/
 
 # jupyter
 .ipynb_checkpoints/
+
+# project
+vision/Keras-image-classifer-framework-master/data/
+vision/Keras-image-classifer-framework-master**/*.model
 
 
 # Byte-compiled / optimized / DLL files
